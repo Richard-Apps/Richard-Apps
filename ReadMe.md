@@ -2,13 +2,13 @@ Hi 👋 My name is RichardApps
 
 Participant in general development, game-development, 3D-modeling, server hosting, video editing and content creation
 
-🌍  I'm based in Germany // Timezone: (GMT+2)
+🌍  Mostly used language is English
 
 🖥️  See my portfolio at [RichardApps.de](http://richardapps.de)
 
 ✉️  You can contact me at [devrichardapps@gmail.com](mailto:devrichardapps@gmail.com)
 
-🚀  I'm currently working on [NameGen](http://namegen.richardapps.de)
+🚀  I'm currently working on VisualINC
 
 🧠  I'm currently learning Python
 
